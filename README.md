@@ -176,4 +176,14 @@ By providing both formats, this project ensures flexibility and accessibility fo
 
 
 
+## Layoffs EDA SQL Queries
+
+This folder contains SQL queries used for the Exploratory Data Analysis (EDA) of the layoffs data. These queries were executed in MySQL Workbench to explore and clean the dataset.
+
+The `Layoffs_EDA_queries.sql` file includes:
+- Data filtering and transformation queries.
+- Aggregation and summarization of key metrics.
+- Data exploration steps for understanding trends and patterns.
+
+These SQL queries were used to gain insights from the layoffs data and form the basis for further analysis within the project.
 
